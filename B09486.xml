@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At a Council held at Boston the 22d. of August 1678. whereas Benjamin Wait and Stephen Jennings of Hadley on the 24th. of October last 1677. were appointed and ordered by the honoured Governour John Leveret Esq. to take their journey to Canada in order to their procuring the several English captives that were taken by the Indians from Hatfield on the 19th. of September last ...</title>
+            <author>Massachusetts. Council.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09486</idno><idno type="EEBO-CITATION">69648739</idno>
+  <idno type="VID">184979</idno>
+  <idno type="EEBO-PROQUEST">2240862482</idno>
+  
+            <idno type="STC">Wing M966</idno>
+            <idno type="STC">ESTC W34518</idno>
+            <idno type="OCLC">69648739</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184979)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2883:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At a Council held at Boston the 22d. of August 1678. whereas Benjamin Wait and Stephen Jennings of Hadley on the 24th. of October last 1677. were appointed and ordered by the honoured Governour John Leveret Esq. to take their journey to Canada in order to their procuring the several English captives that were taken by the Indians from Hatfield on the 19th. of September last ...</title>
+                  <author>Massachusetts. Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Foster,</publisher>
+                  <pubPlace>[Boston :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Colonial seal at head of title.</note>
+                  <note>Imperfect: broadside torn with some loss of text.</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wait, Benjamin.</term>
+               <term type="personal_name">Leverett, John, 1616-1679.</term>
+               <term type="personal_name">Jennings, Stephen, --  of Hadley.</term>
+               <term type="topical_term">Indian captivities --  Massachusetts --  Early works to 1800.</term>
+               <term type="geographic_name">Hatfield (Mass.) --  History --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Massachusetts --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:184979:1"/>
+            <head>
+               <figure>
+                  <figDesc>the Massachusetts Bay Colony Seal, featuring a male native american or indian holding a bow in one hand an arrow in the other, standing between two trees</figDesc>
+                  <head>
+                     <q>✚ SIGILLVM : GVB : ET : SOCIET : DE : MATTACHVSETS : BAY : IN : NOVA : ANGLIA</q>
+                  </head>
+                  <p>COME OVER AND HELP VS</p>
+               </figure> AT A COUNCIL Held at <hi>Boston</hi> the 22d. of <hi>August</hi> 1678.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>Benjamin Wait</hi> and <hi>Stephen Jennings</hi> of <hi>Hadley</hi> on the 24th. of <hi>October</hi> last 1677. were appointed and ordered by the Honoured GOVERNOUR <hi>JOHN LEVERET</hi> Esq; to take their Journey to <hi>Cannada</hi> in order to their procuring the several English Captives that were taken by the Indians from <hi>Hatfield</hi> on the 19th. of <hi>September</hi> last, who freely undertook that tedious and hazardous Journey, and through the good Presence and Blessing of God on their Endeavours effected the same; they giving Information by their Letter to the Honoured Governour of their being on their way with the Captives remain<g ref="char:EOLhyphen"/>ing as far as <hi>Albany:</hi> The Governour and Magistrates Assembled together in <hi>Boston</hi> the 30th. of <hi>May</hi> 1678. and understand that great Charges would arise for their Redemption and Provisions amongst the <hi>French,</hi> judged it meet to commend their lamentable as the pious and charitable Benevolence of the good People of this Jurisdiction, in the several Congregations, for their support and relief; some time appointed Mr. <hi>An hony Stoddard,</hi> Mr. <hi>Iohn Joyliffe</hi> and Captain <hi>Iohn Richards</hi> to be Trustees to receive the Contributions <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to give a just and true Accompt of what came to their hands; which they have done under their hands in Writing, with their dispose <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cording to order for those good ends before mentioned:</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overnour and Council judgeth it necessary for the full and clear satisfaction of al persons <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their said Accompt and Dispose be Printed <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> followeth;</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Suffolk</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>li.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ston</cell>
+                     <cell>
+                        <hi>109</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Roxbury</cell>
+                     <cell>
+                        <hi>008</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dorchester</cell>
+                     <cell>
+                        <hi>008</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dedham</cell>
+                     <cell>
+                        <hi>006</hi>
+                     </cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Hingham</cell>
+                     <cell>
+                        <hi>006</hi>
+                     </cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Weymouth</cell>
+                     <cell>
+                        <hi>005</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Meadfield</cell>
+                     <cell>
+                        <hi>004</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Brantrey</cell>
+                     <cell>
+                        <hi>003</hi>
+                     </cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hull</cell>
+                     <cell>
+                        <hi>002</hi>
+                     </cell>
+                     <cell>
+                        <hi>08</hi>
+                     </cell>
+                     <cell>
+                        <hi>07</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Milton</cell>
+                     <cell>
+                        <hi>002</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Middlesex.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>Charlstown</cell>
+                     <cell>
+                        <hi>015</hi>
+                     </cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Cambridge</cell>
+                     <cell>
+                        <hi>013</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Watertown</cell>
+                     <cell>
+                        <hi>009</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Maulden</cell>
+                     <cell>
+                        <hi>005</hi>
+                     </cell>
+                     <cell>
+                        <hi>17</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Cambridge Village</cell>
+                     <cell>
+                        <hi>003</hi>
+                     </cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>dbury</cell>
+                     <cell>
+                        <hi>003</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ncord</cell>
+                     <cell>
+                        <hi>003</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>msford</cell>
+                     <cell>
+                        <hi>002</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>rough</cell>
+                     <cell>
+                        <hi>002</hi>
+                     </cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>ca</cell>
+                     <cell>
+                        <hi>002</hi>
+                     </cell>
+                     <cell>
+                        <hi>08</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Wooborne</cell>
+                     <cell>
+                        <hi>008</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Portsmouth</cell>
+                     <cell>
+                        <hi>020</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dover</cell>
+                     <cell>
+                        <hi>011</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>08</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sle of Shoals</cell>
+                     <cell>004</cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Kittery</cell>
+                     <cell>004</cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>York</cell>
+                     <cell>003</cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>08</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wells</cell>
+                     <cell>001</cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>273</cell>
+                     <cell>04</cell>
+                     <cell>11.</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Essex.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>li.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Salem</cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                     <cell>
+                        <hi>07</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Salem Village</cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ipswich</cell>
+                     <cell>
+                        <hi>17</hi>
+                     </cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y</cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0</cell>
+                  </row>
+                  <row>
+                     <cell>Newbery</cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lyn</cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Redding</cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ble Head</cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>And<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ver</cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Top fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld</cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>08</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Glocester</cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>07</hi>
+                     </cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Haveril &amp; Bradford</cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>Wenham</cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>17</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Manchester</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Beverly</cell>
+                     <cell>03</cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Salisbury</cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hampton</cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>08</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Amesbery</cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Exiter</cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>More from Water<g ref="char:EOLhyphen"/>town in 3 yards &amp; half of Kersey</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>17</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>71</cell>
+                     <cell>16</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>345</cell>
+                     <cell>01</cell>
+                     <cell>04</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>June</hi> 14 To Mounseiur <hi>de la Signy</hi> Messenger from the Honourable Earl <hi>Frontenack</hi> per Order for the Cap<g ref="char:EOLhyphen"/>tives Provisions</cell>
+                     <cell>173</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>15 To Mounseiur <hi>Salvoy</hi> Servant to Mounseiur <hi>de Sorrel</hi> for the Captives Redemption, Money</cell>
+                     <cell>123</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>17 To <hi>Benjamin Wait</hi>
+                     </cell>
+                     <cell>010</cell>
+                     <cell>06</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>17 To <hi>Stephen Jennings</hi>
+                     </cell>
+                     <cell>005</cell>
+                     <cell>09</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>July</hi> 23 To Mr. <hi>William Kent</hi> for the Diet of the <hi>French-Men</hi>
+                     </cell>
+                     <cell>009</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To <hi>Moses Pain</hi> for keeping their Horses</cell>
+                     <cell>000</cell>
+                     <cell>17</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To <hi>Jacob Eliot</hi> for keeping their Horses</cell>
+                     <cell>000</cell>
+                     <cell>17</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>August</hi> 10 To <hi>Benjamin Wait</hi> by Order of the Council</cell>
+                     <cell>005</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To <hi>Stephen Jeninngs</hi> per Order</cell>
+                     <cell>002</cell>
+                     <cell>09</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>To Moneys Ordered to Mr. <hi>Iohn Russel</hi> Minister of <hi>Hadley</hi> and Mr. <hi>Solomon Stoddard</hi> Minister of <hi>North-Hampton</hi> to be divided amongst the Cap<g ref="char:EOLhyphen"/>tives</cell>
+                     <cell>013</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Also sent to <hi>Hadley</hi> to Mr. <hi>Russel</hi> and Mr. <hi>Stoddard</hi> to divide amongst the Captives as above, the three yards and half of Kersey on the other side</cell>
+                     <cell>00</cell>
+                     <cell>17</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>345</cell>
+                     <cell>01</cell>
+                     <cell>04</cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <signed>Signed by <hi>Anthony Stoddard, John Joyliffe, John Richards.</hi>
+               </signed>
+            </closer>
+            <argument>
+               <p>Other Contributions have been made and collected out of <hi>Springfield, Hadley, North Ham<g ref="char:EOLhyphen"/>pton, Hatfield,</hi> and <hi>Westfield,</hi> of which exact notice or account hath not been given, being Towns remote from us; which the Council hath ordered Major <hi>John Pynchon,</hi> &amp;c. on the place to take notice thereof, and to order the Distribution thereof accordingly.</p>
+            </argument>
+            <closer>
+               <signed>By Order of the COƲNCIL, Edward Rawson Secr.</signed>
+            </closer>
+            <pb facs="tcp:184979:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
